@@ -10,7 +10,9 @@
 
 [CGAL](https://www.cgal.org/)
 
+## Datasets
 
+TBA
 
 ## Algorithms
 
@@ -19,6 +21,8 @@ Generating oriented bounding box around point cloud
 [Oriented Bounding Box](https://github.com/robinvista/pointcloud-OBB)
 
 [Downsampling a PointCloud using a VoxelGrid filter](https://pcl.readthedocs.io/projects/tutorials/en/latest/voxel_grid.html)
+
+## Tutorials, articles
 
 ## Study courses
 
@@ -30,3 +34,8 @@ Generating oriented bounding box around point cloud
 
 **3D Computer Vision | National University of Singapore**
 Videos: [Youtube](https://www.youtube.com/playlist?list=PLxg0CGqViygP47ERvqHw_v7FVnUovJeaz)
+
+
+**Practical Course: Vision-based Navigation IN2106 in TUM**
+
+[Page](https://cvg.cit.tum.de/teaching/ss2020/visnav_ss2020#lectures)
