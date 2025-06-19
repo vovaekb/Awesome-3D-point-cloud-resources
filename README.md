@@ -39,3 +39,11 @@ Videos: [Youtube](https://www.youtube.com/playlist?list=PLxg0CGqViygP47ERvqHw_v7
 **Practical Course: Vision-based Navigation IN2106 in TUM**
 
 [Page](https://cvg.cit.tum.de/teaching/ss2020/visnav_ss2020#lectures)
+
+
+## Video lectures
+
+**Photogrammetry I & II**
+The University of Bonn, Cyrill Stachniss, 2021
+
+[Youtube](https://www.youtube.com/playlist?list=PLgnQpQtFTOGRYjqjdZxTEQPZuFHQa7O7Y)
