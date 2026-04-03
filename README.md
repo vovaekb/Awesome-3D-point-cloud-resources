@@ -40,8 +40,19 @@ Videos: [Youtube](https://www.youtube.com/playlist?list=PLxg0CGqViygP47ERvqHw_v7
 
 [Page](https://cvg.cit.tum.de/teaching/ss2020/visnav_ss2020#lectures)
 
+## Books
+
+An Invitation to 3-D Vision: From Images to Geometric Models,  Yi Ma , Stefano Soatto , Jana Košecká , S. Shankar Sastry
+
+[Download Pdf](https://www.eecis.udel.edu/~cer/arv/readings/old_mkss.pdf)
+
+**Note:** the book recommended by Prof. Dr. Daniel Cremers (TU München) on the course Multiple View Geometry (3D Computer Vision) (IN2228)
 
 ## Video lectures
+
+**Lecture: Multi-view Geometry (SS25)**
+
+[Playlist on Youtube](https://www.youtube.com/playlist?list=PLTBdjV_4f-EKTxkbejHedLAM62thMLZ9_)
 
 **Photogrammetry I & II**
 The University of Bonn, Cyrill Stachniss, 2021
